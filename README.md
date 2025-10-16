@@ -1,5 +1,6 @@
 Absolutely! Here's a **very professional, detailed, and GitHub-ready README** for your **JS Analyzer** project, with badges, structure, installation, usage, examples, and tips. You can copy this directly into your `README.md`.
 
+---
 
 ````markdown
 # JS Analyzer 🔍
@@ -89,6 +90,7 @@ Expected output:
 
 * JSON reports are saved automatically in `Report/`.
 
+---
 
 ## 🛠 Stages Explained
 
@@ -98,6 +100,7 @@ Expected output:
 4. **Stage4: Framework Detector** – Detects frameworks and their versions.
 5. **Stage5: Reporter** – Prints results to the console and saves a JSON report.
 
+---
 
 ## 📄 JSON Report Structure
 
@@ -129,6 +132,7 @@ Expected output:
 }
 ```
 
+---
 
 ## 🧪 Test Files
 
@@ -136,6 +140,7 @@ Expected output:
 * `Tests/full_test.js` – Complex test covering secrets, dangerous functions, and frameworks
 * `Tests/mega_challenge.js` – Real-world challenging JS file for full analysis
 
+---
 
 ## 💡 Tips & Best Practices
 
@@ -144,16 +149,17 @@ Expected output:
 * Use Go channels to add more concurrent stages if needed
 * Always keep test files in the `Tests/` folder
 
+---
 
 ## 📝 License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
+---
 
 ## 👤 Author
 
 **Peter Osama** – [GitHub](https://github.com/Petersudo01) | [peterosama.20003@gmail.com](mailto:peterosama.20003@gmail.com)
 
-
-Do you want me to do that next?
 ```
+
